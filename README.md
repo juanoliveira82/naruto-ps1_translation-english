@@ -12,7 +12,10 @@ Text in-game  | Translation
 コンティニュー | Continue
 
 <img src="/images/Menu-Start.jpg" width="400">
-Start menu translated.
+
+Start menu translated ✅
+
+## Main Menu
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
