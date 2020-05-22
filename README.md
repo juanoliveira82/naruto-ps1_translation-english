@@ -11,7 +11,7 @@ Text in-game  | Translation
 はじめから | From the beginning (Start)
 コンティニュー | Continue
 
-<img src="/images/Menu-Start.jpg" width="200">
+<img src="/images/Menu-Start.jpg" alt="Start Menu translated" width="400">
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
