@@ -11,7 +11,7 @@ I don't know how to rom-hack, so I will only translate the game.
 
 - コンティニュー	= Continue
 
-![alt text](/naruto-ps1_translation/blob/master/images/Menu-Start.jpg "Start Menu translated")
+![alt text](/images/Menu-Start.jpg "Start Menu translated")
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
