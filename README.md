@@ -5,15 +5,13 @@ I don't know how to rom-hack, so I will only translate the game.
 
 ## Start Menu
 
-
 Text in-game  | Translation
 --- | ---
 ロード | Load
 はじめから | From the beginning (Start)
 コンティニュー | Continue
 
-
-![alt text](/images/Menu-Start.jpg "Start Menu translated")
+<img src="/images/Menu-Start.jpg" width="200">
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
