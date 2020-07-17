@@ -6,7 +6,7 @@ I don't know how to rom-hack, so I will only translate the game.
 
 ## How I translate
 
-I use the psx 1.13 emulator to play the game, so I watch the Japanese symbols that appear on the screens, and I use a virtual Japanese keyboard to write the words, trying to find the symbols that are the same as those that appear in the game.
+I use the psx 1.13 emulator to play the game, so I see the Japanese symbols that appear on the screens, and I use a virtual Japanese keyboard to write the words, trying to find the symbols that are the same as those that appear in the game.
 
 Then I translate Japanese words and phrases into English using Google Translate.
 
@@ -28,6 +28,24 @@ Text in-game  | Translation
 --- | --- | ---
 **X** Button | もどる | Return
 **O** Button | けってい | Confirm
+
+## Options Menu (Kakashi Image)
+
+| - | Text in-game  | Translation
+--- | --- | ---
+Top Label | せってい | Set
+The top label translates to "Set", but I preferred to translate to "Options", since this is the options menu.
+
+| - | Text in-game  | Translation
+--- | --- | ---
+1st setting | 振動 | Vibration
+2nd setting | サウンド | Sound
+1st sound option | ステレオ | Stereo
+2nd sound option | モノラル | Monaural
+
+I didn't translate Iruka's sentences as he probably just explains the options.
+
+<img src="/images/Menu-Options.jpg" width="400">
 
 ## Contributing
 
