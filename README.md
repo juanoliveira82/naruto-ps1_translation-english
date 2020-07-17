@@ -26,6 +26,7 @@ Text in-game  | Translation
 
 | - | Text in-game  | Translation
 --- | --- | ---
+Top Label | モードセレクト | Mode select
 **X** Button | もどる | Return
 **O** Button | けってい | Confirm
 
