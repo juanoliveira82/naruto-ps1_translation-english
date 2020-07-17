@@ -31,9 +31,10 @@ Text in-game  | Translation
 
 ## Options Menu (Kakashi Image)
 
-| - | Text in-game  | Translation
---- | --- | ---
-Top Label | せってい | Set
+| - | Text in-game  | Translation |
+| --- | --- | --- |
+| Top Label | せってい | Set |
+
 The top label translates to "Set", but I preferred to translate to "Options", since this is the options menu.
 
 | - | Text in-game  | Translation
@@ -46,6 +47,8 @@ The top label translates to "Set", but I preferred to translate to "Options", si
 I didn't translate Iruka's sentences as he probably just explains the options.
 
 <img src="/images/Menu-Options.jpg" width="400">
+
+**Options menu translated** ✅
 
 ## Contributing
 
