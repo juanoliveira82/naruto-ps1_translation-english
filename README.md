@@ -40,12 +40,14 @@ The top label translates to "Set", but I preferred to translate to "Options", si
 
 | - | Text in-game  | Translation
 --- | --- | ---
-1st setting | 振動 | Vibration
-2nd setting | サウンド | Sound
-1st sound option | ステレオ | Stereo
-2nd sound option | モノラル | Monaural
-
-I didn't translate Iruka's sentences as he probably just explains the options.
+**1st setting** | 振動 | Vibration
+Iruka phrase | 振動のせつていをするぞ! | I will set the vibration!
+**2nd setting** | サウンド | Sound
+Iruka phrase | サウンドのせつていをするぞ! | I will set the sound!
+*1st sound option* | ステレオ | Stereo
+*2nd sound option* | モノラル | Monaural
+**Save button** | ロード | Load *(the memory card)* → Save
+Iruka phrase | データをロードするぞ! | Let's load the data!
 
 <img src="/images/Menu-Options.jpg" width="400">
 
