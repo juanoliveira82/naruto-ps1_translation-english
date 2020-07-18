@@ -30,6 +30,19 @@ Top Label | モードセレクト | Mode select
 **X** Button | もどる | Return
 **O** Button | けってい | Confirm
 
+## Bingo Book Menu (Zabuza Image)
+
+Kakashi phrase:
+
+| Text in-game  | Translation |
+| --- | --- |
+| ライバルたちのデータを | Data of rivals |
+| 見ることができるぞ。 | You can see it. |
+
+I improved the translation to: "You can see the Bingo Book".
+
+<img src="/images/Main_Menu-Bingo_Book.jpg" width="400">
+
 ## Options Menu (Kakashi Image)
 
 Kakashi phrase:
