@@ -18,7 +18,7 @@ Text in-game  | Translation
 はじめから | From the beginning (Start)
 コンティニュー | Continue
 
-<img src="https://raw.githubusercontent.com/juanoliveira82/naruto-ps1_translation-english/master/images/Menu-Start.jpg" width="400">
+<img src="https://i.imgur.com/axT7l9y.jpg" width="400">
 
 **Start menu translated** ✅
 
