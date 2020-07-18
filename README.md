@@ -32,6 +32,15 @@ Top Label | モードセレクト | Mode select
 
 ## Options Menu (Kakashi Image)
 
+Kakashi phrase:
+
+| Text in-game  | Translation |
+| --- | --- |
+| ゲームのせつていを | Game settings |
+| かえることができるぞ。 | You can change it. |
+
+I improved the translation to: "You can change the game settings".
+
 <img src="/images/Main_Menu-Options.jpg" width="400">
 
 | - | Text in-game  | Translation |
@@ -49,7 +58,7 @@ Iruka phrase | サウンドのせつていをするぞ! | I will set the sound!
 *1st sound option* | ステレオ | Stereo
 *2nd sound option* | モノラル | Monaural
 **Save button** | ロード | Load *(the memory card)* → Save
-Iruka phrase | データをロードするぞ! | Let's load the data!
+Iruka phrase | データをロードするぞ! | Let's save the data!
 
 <img src="/images/Menu-Options.jpg" width="400">
 
