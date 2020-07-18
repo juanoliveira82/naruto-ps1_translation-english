@@ -18,7 +18,7 @@ Text in-game  | Translation
 はじめから | From the beginning (Start)
 コンティニュー | Continue
 
-<img src="https://i.imgur.com/axT7l9y.jpg" width="400">
+<img src="https://i.imgur.com/axT7l9y.jpg" width="600">
 
 **Start menu translated** ✅
 
@@ -41,7 +41,7 @@ Kakashi phrase:
 
 I improved the translation to: "You can see the Bingo Book".
 
-<img src="/images/Main_Menu-Bingo_Book.jpg" width="400">
+<img src="https://i.imgur.com/1VEhMG8.jpg" width="600">
 
 ## Options Menu (Kakashi Image)
 
@@ -54,7 +54,7 @@ Kakashi phrase:
 
 I improved the translation to: "You can change the game settings".
 
-<img src="/images/Main_Menu-Options.jpg" width="400">
+<img src="https://i.imgur.com/Rdc9yDR.jpg" width="600">
 
 | - | Text in-game  | Translation |
 | --- | --- | --- |
@@ -73,7 +73,7 @@ Iruka phrase | サウンドのせつていをするぞ! | I will set the sound!
 **Save button** | ロード | Load *(the memory card)* → Save
 Iruka phrase | データをロードするぞ! | Let's save the data!
 
-<img src="/images/Menu-Options.jpg" width="400">
+<img src="https://i.imgur.com/MqxV5lT.jpg" width="600">
 
 **Options menu translated** ✅
 
