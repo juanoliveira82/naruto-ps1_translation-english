@@ -32,6 +32,8 @@ Top Label | モードセレクト | Mode select
 
 ## Options Menu (Kakashi Image)
 
+<img src="/images/Main_Menu-Options.jpg" width="400">
+
 | - | Text in-game  | Translation |
 | --- | --- | --- |
 | Top Label | せってい | Set |
