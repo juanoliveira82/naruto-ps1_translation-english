@@ -1,14 +1,32 @@
-## Translation project for the game "Naruto Shinobi no Sato no Jintori Kassen"
+<h1 align="center">Naruto "Shinobi no Sato no Jintori Kassen" Translation</h1>
+<h4 align="center">🎮 Translation project for the game: Naruto Shinobi no Sato no Jintori Kassen</h4>
+
+<p align="center">
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-i-translate">How I translate</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-translation-menu">Translation Menu</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contributing">Contributing</a>
+</p>
+
+## 💻 Project
 
 The project consists of translating the game texts that are in Japanese into English, so it would be easy to understand the game.
 
 I don't know how to rom-hack, so I will only translate the game.
 
-## How I translate
+## 🤔 How I translate
 
 I use the psx 1.13 emulator to play the game, so I see the Japanese symbols that appear on the screens, and I use a virtual Japanese keyboard to write the words, trying to find the symbols that are the same as those that appear in the game.
 
 Then I translate Japanese words and phrases into English using Google Translate.
+
+## 📋 Translation Menu
+
+- <a href="#start-menu">Start Menu</a>
+- <a href="#main-menu">Main Menu</a>
+- <a href="#bingo-book-menu-zabuza-image">Bingo Book Menu (Zabuza Image)</a>
+- <a href="#options-menu-kakashi-image">Options Menu (Kakashi Image)</a>
 
 ## Start Menu
 
@@ -56,6 +74,8 @@ I improved the translation to: "You can change the game settings".
 
 <img src="https://i.imgur.com/Rdc9yDR.jpg" width="600">
 
+### Inside the Options Menu
+
 | - | Text in-game  | Translation |
 | --- | --- | --- |
 | Top Label | せってい | Set |
@@ -77,6 +97,10 @@ Iruka phrase | データをロードするぞ! | Let's save the data!
 
 **Options menu translated** ✅
 
-## Contributing
+## 👨‍💻 Autor
+
+Made with 💚 by [Juan Carlos Cardoso de Oliveira](https://github.com/juanoliveira82)
+
+## 👏 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
