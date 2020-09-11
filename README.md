@@ -5,7 +5,7 @@
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-i-translate">How I translate</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-translation-menu">Translation Menu</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-author">Author</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-contributing">Contributing</a>
 </p>
 
@@ -97,7 +97,7 @@ Iruka phrase | データをロードするぞ! | Let's save the data!
 
 **Options menu translated** ✅
 
-## 👨‍💻 Autor
+## 👨‍💻 Author
 
 Made with 💚 by [Juan Carlos Cardoso de Oliveira](https://github.com/juanoliveira82)
 
