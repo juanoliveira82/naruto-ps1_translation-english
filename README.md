@@ -61,6 +61,16 @@ I improved the translation to: "You can see the Bingo Book".
 
 <img src="https://i.imgur.com/1VEhMG8.jpg" width="600">
 
+### Inside the Bingo Book Menu
+
+| - | Text in-game  | Translation |
+| --- | --- | --- |
+| Top Label | ビンゴ・ブック | Bingo-Book |
+
+<img src="https://i.imgur.com/XE7Jh0K.jpg" width="600">
+
+**Bingo Book menu translated** ✅
+
 ## Options Menu (Kakashi Image)
 
 Kakashi phrase:
