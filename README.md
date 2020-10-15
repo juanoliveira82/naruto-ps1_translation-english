@@ -48,6 +48,19 @@ Top Label | モードセレクト | Mode select
 **X** Button | もどる | Return
 **O** Button | けってい | Confirm
 
+## Treasure BOX Menu (Konohamaru Image)
+
+### Inside the Treasure BOX Menu
+
+| - | Text in-game  | Translation |
+| --- | --- | --- |
+| Top Label | お宝 BOX | Treasure Box |
+| Bottom Label | お宝 番号。 | Treasure number |
+
+I improved the translation of "Treasure number" to just "Number".
+
+<img src="https://i.imgur.com/AohifSm.jpg" width="600">
+
 ## Bingo Book Menu (Zabuza Image)
 
 Kakashi phrase:
