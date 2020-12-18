@@ -31,7 +31,17 @@ I improved the translation of "Choose a chance tag to get it." to "Choose a chan
 --- | --- | ---
 Card Text | 持訓 | Lessons
 Card Description | ダミー人形あいてに持訓! | Dummy dolls have a lesson!
-. | 100チャクラ回復 | 100 chakra recovery.
+. | 100 チャクラ回復 | 100 chakra recovery.
+
+### How the Chakra Works Card
+
+<img src="https://i.imgur.com/WHsugYv.png" width="200">
+
+| - | Text in-game  | Translation
+--- | --- | ---
+Card Text | チャクラのしくみ | How the chakra works
+Card Description | チャクラのしくみを理解した。| I understood how the chakra works.
+. | 500 チャクラ回復 | 500 chakra recovery.
 
 ### Attack Power Up Card
 
