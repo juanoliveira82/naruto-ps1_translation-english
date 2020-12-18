@@ -23,6 +23,28 @@ I improved the translation of "Choose a chance tag to get it." to "Choose a chan
 
 <img src="https://i.imgur.com/cn6DCOD.jpg" width="700">
 
+### Lessons Card
+
+<img src="https://i.imgur.com/iDJDcsh.png" width="200">
+
+| - | Text in-game  | Translation
+--- | --- | ---
+Card Text | 持訓 | Lessons
+Card Description | ダミー人形あいてに持訓! | Dummy dolls have a lesson!
+. | 100チャクラ回復 | 100 chakra recovery.
+
+### Attack Power Up Card
+
+<img src="https://i.imgur.com/A8ozd6q.png" width="200">
+
+| - | Text in-game  | Translation
+--- | --- | ---
+Card Text | 攻撃力アップ | Attack Power Up
+Card Description | 攻撃力アップ+1 | Attack Power Up +1
+. | 攻撃するとき攻撃力が+1されます。 | When attacking, the attack power is increased by +1.
+
+This card can have different "Power Up" numbers.
+
 ## 👨‍💻 Author
 
 Made with 💚 by [Juan Carlos Cardoso de Oliveira](https://github.com/juanoliveira82)
