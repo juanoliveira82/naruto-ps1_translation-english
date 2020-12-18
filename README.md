@@ -17,7 +17,7 @@ I don't know how to rom-hack, so I will only translate the game.
 
 ## 🤔 How I translate
 
-I used the psx 1.13 emulator to play the game. I am now using the DuckStation emulator to play.
+I used the psx 1.13 emulator to play the game. I am now using the [DuckStation](https://github.com/stenzek/duckstation) emulator to play.
 
 Within the game, when I see the Japanese symbols that appear on the screens, I use a Japanese virtual keyboard to write the words, trying to find the symbols that are the same as those that appear in the game.
 
