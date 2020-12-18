@@ -17,7 +17,9 @@ I don't know how to rom-hack, so I will only translate the game.
 
 ## 🤔 How I translate
 
-I use the psx 1.13 emulator to play the game, so I see the Japanese symbols that appear on the screens, and I use a virtual Japanese keyboard to write the words, trying to find the symbols that are the same as those that appear in the game.
+I used the psx 1.13 emulator to play the game. I am now using the DuckStation emulator to play.
+
+Within the game, when I see the Japanese symbols that appear on the screens, I use a Japanese virtual keyboard to write the words, trying to find the symbols that are the same as those that appear in the game.
 
 Then I translate Japanese words and phrases into English using Google Translate.
 
@@ -27,7 +29,6 @@ Then I translate Japanese words and phrases into English using Google Translate.
 - <a href="#main-menu">Main Menu</a>
 - <a href="#bingo-book-menu-zabuza-image">Bingo Book Menu (Zabuza Image)</a>
 - <a href="#options-menu-kakashi-image">Options Menu (Kakashi Image)</a>
-
 - <a href="CARDS.md">Translation of game cards</a>
 
 ## Start Menu
