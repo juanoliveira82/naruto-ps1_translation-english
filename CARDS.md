@@ -11,6 +11,17 @@
 
 The game uses a lot of cards during the rounds you play, so I'm going to translate them for better understanding.
 
+### Cards Selection Menu
+
+| - | Text in-game  | Translation
+--- | --- | ---
+Top Label | ゲットする扎を えらべ! | Select the one you want to get!
+Description Box | もらうチャンス札をえらんでね。 | Choose a chance tag to get it.
+**O** Button | けってい | Confirm
+
+I improved the translation of "Choose a chance tag to get it." to "Choose a chance card to get.".
+
+<img src="https://i.imgur.com/cn6DCOD.jpg" width="700">
 
 ## 👨‍💻 Author
 
