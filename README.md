@@ -28,6 +28,8 @@ Then I translate Japanese words and phrases into English using Google Translate.
 - <a href="#bingo-book-menu-zabuza-image">Bingo Book Menu (Zabuza Image)</a>
 - <a href="#options-menu-kakashi-image">Options Menu (Kakashi Image)</a>
 
+- <a href="CARDS.md">Translation of game cards</a>
+
 ## Start Menu
 
 Text in-game  | Translation
