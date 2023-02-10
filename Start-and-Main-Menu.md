@@ -17,25 +17,33 @@
 
 ## Start Menu
 
+<img src="https://i.imgur.com/xGFyFsq.png" width="300"/>
+
 Text in-game  | Translation
 --- | ---
-ロード | Load
-はじめから | From the beginning (Start)
-コンティニュー | Continue
+Start ボタンを<br>おせってはよ! | Hit the Start button!
 
-<img src="https://i.imgur.com/axT7l9y.jpg" width="600">
+<img src="https://i.imgur.com/DRmvn4W.png" width="300"/>
+
+Text in-game  | Translation
+--- | ---
+はじめから | From the beginning → Start
+ロード | Load
+コンティニュー | Continue
 
 **Start menu translated** ✅
 
 ## Main Menu
 
-| - | Text in-game  | Translation
+| | Text in-game  | Translation
 --- | --- | ---
-Top Label | モードセレクト | Mode select
+Title of the menu | モードセレクト | Mode select
 **X** Button | もどる | Return
 **O** Button | けってい | Confirm
 
 ## Treasure Box Menu (Konohamaru Image)
+
+<img src="https://i.imgur.com/NXrysKv.png" width="300"/>
 
 | Title | Translation |
 | --- | --- |
@@ -45,68 +53,56 @@ Kakashi phrase:
 
 | Text in-game  | Translation |
 | --- | --- |
-| 手にいれた隠し財宝を | The hidden treasure that I got |
-| 見ることができるぞ。 | You can see it. |
-
-I improved the translation to: "You can see the hidden treasures you have obtained."
+| 手にいれた隠し財宝を<br>見ることができるぞ。 | You can see the hidden treasures you got. |
 
 ### Inside the Treasure Box Menu
 
-| - | Text in-game  | Translation |
+<img src="https://i.imgur.com/sgKtiwZ.png" width="300"/>
+
+| | Text in-game  | Translation |
 | --- | --- | --- |
-| Top Label | お宝 BOX | Treasure Box |
+| Title of the menu | お宝 BOX | Treasure Box |
 | Bottom Label | お宝 番号。 | Treasure number |
 
 I improved the translation of "Treasure number" to just "Number".
 
-<img src="https://i.imgur.com/AohifSm.jpg" width="600">
-
 ## Bingo Book Menu (Zabuza Image)
+
+<img src="https://i.imgur.com/ZEHi61h.png" width="300"/>
 
 Kakashi phrase:
 
 | Text in-game  | Translation |
 | --- | --- |
-| ライバルたちのデータを | Data of rivals |
-| 見ることができるぞ。 | You can see it. |
-
-I improved the translation to: "You can see the Bingo Book."
-
-<img src="https://i.imgur.com/1VEhMG8.jpg" width="600">
+| ライバルたちのデータを<br>見ることができるぞ。 | You can see the data of your rivals. |
 
 ### Inside the Bingo Book Menu
 
-| - | Text in-game  | Translation |
-| --- | --- | --- |
-| Top Label | ビンゴ・ブック | Bingo-Book |
+<img src="https://i.imgur.com/MKDWoqR.png" width="300">
 
-<img src="https://i.imgur.com/XE7Jh0K.jpg" width="600">
+| | Text in-game  | Translation |
+| --- | --- | --- |
+| Title of the menu | ビンゴ・ブック | Bingo・Book |
 
 **Bingo Book menu translated** ✅
 
 ## Options Menu (Kakashi Image)
 
+<img src="https://i.imgur.com/Dnayjgj.png" width="300">
+
 Kakashi phrase:
 
 | Text in-game  | Translation |
 | --- | --- |
-| ゲームのせつていを | Game settings |
-| かえることができるぞ。 | You can change it. |
-
-I improved the translation to: "You can change the game settings."
-
-<img src="https://i.imgur.com/Rdc9yDR.jpg" width="600">
+| ゲームのせつていを<br>かえることができるぞ。 | You can change the setting of the game. |
 
 ### Inside the Options Menu
 
-| - | Text in-game  | Translation |
-| --- | --- | --- |
-| Top Label | せってい | Set |
+<img src="https://i.imgur.com/tmYkZq3.png" width="300">
 
-The top label translates to "Set", but I preferred to translate to "Options", since this is the options menu.
-
-| - | Text in-game  | Translation
+| | Text in-game  | Translation
 --- | --- | ---
+Title of the menu | せってい | Settings
 **1st setting** | 振動 | Vibration
 Iruka phrase | 振動のせつていをするぞ! | I will set the vibration!
 **2nd setting** | サウンド | Sound
@@ -115,8 +111,6 @@ Iruka phrase | サウンドのせつていをするぞ! | I will set the sound!
 *2nd sound option* | モノラル | Monaural
 **Save button** | ロード | Load *(the memory card)* → Save
 Iruka phrase | データをロードするぞ! | Let's save the data!
-
-<img src="https://i.imgur.com/MqxV5lT.jpg" width="600">
 
 **Options menu translated** ✅
 
