@@ -11,7 +11,7 @@
 
 - <a href="#start-menu">Start Menu</a>
 - <a href="#main-menu">Main Menu</a>
-- <a href="#treasure-box-menu-konohamaru-image">Treasure BOX Menu (Konohamaru Image)</a>
+- <a href="#treasure-box-menu-konohamaru-image">Treasure Box Menu (Konohamaru Image)</a>
 - <a href="#bingo-book-menu-zabuza-image">Bingo Book Menu (Zabuza Image)</a>
 - <a href="#options-menu-kakashi-image">Options Menu (Kakashi Image)</a>
 
@@ -35,9 +35,22 @@ Top Label | モードセレクト | Mode select
 **X** Button | もどる | Return
 **O** Button | けってい | Confirm
 
-## Treasure BOX Menu (Konohamaru Image)
+## Treasure Box Menu (Konohamaru Image)
 
-### Inside the Treasure BOX Menu
+| Title | Translation |
+| --- | --- |
+| お宝 BOX | Treasure Box |
+
+Kakashi phrase:
+
+| Text in-game  | Translation |
+| --- | --- |
+| 手にいれた隠し財宝を | The hidden treasure that I got |
+| 見ることができるぞ。 | You can see it. |
+
+I improved the translation to: "You can see the hidden treasures you have obtained."
+
+### Inside the Treasure Box Menu
 
 | - | Text in-game  | Translation |
 | --- | --- | --- |
@@ -57,7 +70,7 @@ Kakashi phrase:
 | ライバルたちのデータを | Data of rivals |
 | 見ることができるぞ。 | You can see it. |
 
-I improved the translation to: "You can see the Bingo Book".
+I improved the translation to: "You can see the Bingo Book."
 
 <img src="https://i.imgur.com/1VEhMG8.jpg" width="600">
 
@@ -80,7 +93,7 @@ Kakashi phrase:
 | ゲームのせつていを | Game settings |
 | かえることができるぞ。 | You can change it. |
 
-I improved the translation to: "You can change the game settings".
+I improved the translation to: "You can change the game settings."
 
 <img src="https://i.imgur.com/Rdc9yDR.jpg" width="600">
 
