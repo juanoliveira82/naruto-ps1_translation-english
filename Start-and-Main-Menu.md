@@ -41,6 +41,20 @@ Title of the menu | モードセレクト | Mode select
 **X** Button | もどる | Return
 **O** Button | けってい | Confirm
 
+## Party Mode Menu (Sasuke, Naruto, Sakura Image)
+
+<img src="https://i.imgur.com/Lcw9eCv.png" width="300"/>
+
+| Title | Translation |
+| --- | --- |
+| パーティーモード | Party Mode |
+
+Kakashi phrase:
+
+| Text in-game  | Translation |
+| --- | --- |
+| みんなで対戦する<br>パーティーモードだぞ。 | It's a party mode where everyone fights against each other. |
+
 ## Treasure Box Menu (Konohamaru Image)
 
 <img src="https://i.imgur.com/NXrysKv.png" width="300"/>
