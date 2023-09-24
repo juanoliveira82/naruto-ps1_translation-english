@@ -130,7 +130,7 @@ Iruka phrase | データをロードするぞ! | Let's save the data!
 
 ## 👨‍💻 Author
 
-Made with 💚 by [Juan Carlos Cardoso de Oliveira](https://github.com/juanoliveira82)
+Made with 💚 by [Juan Carlos Cardoso de Oliveira](https://github.com/juanoliveira82) and [Marcus Vinicius Reis Gonçalves](https://github.com/mvreisg)
 
 ## 👏 Contributing
 
