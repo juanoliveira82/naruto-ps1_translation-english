@@ -23,14 +23,17 @@ Within the game, when I see the Japanese symbols that appear on the screens, I u
 
 Then I translate Japanese words and phrases into English using Google Translate.
 
+There is a way to draw the Japanese glyphs in Google Translate and it will try to guess whick glyph corresponds to your drawing but in the end you choose the most similar one.
+
 ## 📋 Translation Menu
 
 - <a href="Start-and-Main-Menu.md">Translation of the Start and Main Menu</a>
-- <a href="Cards.md">Translation of game cards</a>
+- <a href="Cards.md">Translation of game cards</a> - <i>in progress</i>
+- <a href="Story-mode.md">Translation of Story mode</a> - <i>in progress</i>
 
 ## 👨‍💻 Author
 
-Made with 💚 by [Juan Carlos Cardoso de Oliveira](https://github.com/juanoliveira82)
+Made with 💚 by [Juan Carlos Cardoso de Oliveira](https://github.com/juanoliveira82) and [Marcus Vinicius Reis Gonçalves](https://github.com/mvreisg)
 
 ## 👏 Contributing
 
