@@ -33,13 +33,13 @@ Card Text | 持訓 | Lessons
 Card Description | ダミー人形あいてに持訓! | Dummy dolls have a lesson!
 . | 100 チャクラ回復 | 100 chakra recovery.
 
-### Seal Register Card
+### Fast Knot!! Card
 
 <img src="https://i.imgur.com/hrVH7Qx.png" width="200">
 
 | - | Text in-game  | Translation
 --- | --- | ---
-Card Text | 印速結び！！ | Quick
+Card Text | 印速結び！！ | Fast Knot!!
 Card Description | 印が集早く結べるようになった！ | Now you can collect the marks and tie them quickly!
 . | 400チヤクラ回復 | 400 chakra recovery
 
