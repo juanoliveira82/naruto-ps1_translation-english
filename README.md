@@ -23,7 +23,9 @@ Within the game, when I see the Japanese symbols that appear on the screens, I u
 
 Then I translate Japanese words and phrases into English using Google Translate.
 
-There is a way to draw the Japanese glyphs in Google Translate and it will try to guess whick glyph corresponds to your drawing but in the end you choose the most similar one.
+There is a way to draw the Japanese glyphs in Google Translate and it will try to guess which glyph corresponds to your drawing but in the end you choose the most similar one.
+
+[This site](https://www.i2ocr.com/free-online-japanese-ocr#) is quite useful too. You give to it the image and he tries to guess the glyph(s) in it.
 
 ## 📋 Translation Menu
 
