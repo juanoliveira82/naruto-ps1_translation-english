@@ -46,8 +46,8 @@ Text in-game  | Translation
 | Button | Text in-game  | Translation |
 | --- | --- | --- |
 | --- | 3000チヤクラためる | Accumulate 3000 chakras
-| --- | ついか条件なし | No conditions at all (?)
-| **O** Button | けってい | ?
+| --- | ついか条件なし | No conditions at all
+| **O** Button | けってい | Confirm
 
 #### Actions Menu
 
@@ -55,7 +55,10 @@ Text in-game  | Translation
 
 | Button | Text in-game  | Translation |
 | --- | --- | --- |
+| --- | 和 | Sum | ••• |
+| --- | --- | --- |
 | --- | ルーレット | Roulette 
+| --- | 力術 | Power Technique
 | --- | 情報 | Information
 | --- | マツプを見る | See Map
 | --- | --- | --- |
@@ -65,7 +68,7 @@ Text in-game  | Translation
 
 | Button | Text in-game  | Translation |
 | --- | --- | --- |
-| --- | ここに結界をはりますか | Will you put a barrier here?
+| --- | ここに結界をはりますか？ | Will you put a barrier here?
 | --- | ⠀⠀必要チヤクラ 60 | Required chakra 60
 | --- | --- | --- |
 | --- | はい | Yes | 
@@ -82,7 +85,7 @@ Text in-game  | Translation
 | --- | --- | --- | --- |
 | --- | レベル | Level | ```---``` |
 | --- | 結界価値 | Barrier Value | ```60``` |
-| --- | 耐久値(?) | Durable value(?) | ```-/-``` |
+| --- | 耐久値 | Durable value | ```-/-``` |
 | --- | --- | --- | --- |
 | **X** Button | もどる | Back | --- |
 
@@ -100,7 +103,7 @@ Text in-game  | Translation
 | --- | ボーナス後 合計予想 | Total Prediction After Bonus | 1767 |
 | --- | --- | --- | --- |
 | **X** Button | もどる | Back | --- |
-| **△** Button | マップ | Map
+| **△** Button | マップ | Map | --- |
 
 
 <img src="https://i.imgur.com/VacBQqY.png" width="300"/>
