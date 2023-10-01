@@ -33,13 +33,13 @@ Card Text | 持訓 | Lessons
 Card Description | ダミー人形あいてに持訓! | Dummy dolls have a lesson!
 . | 100 チャクラ回復 | 100 chakra recovery.
 
-### Chakra Card
+### Fast Knot!! Card
 
 <img src="https://i.imgur.com/hrVH7Qx.png" width="200">
 
 | - | Text in-game  | Translation
 --- | --- | ---
-Card Text | 印送結ひ！！ | ?
+Card Text | 印速結び！！ | Fast Knot!!
 Card Description | 印が集早く結べるようになった！ | Now you can collect the marks and tie them quickly!
 . | 400チヤクラ回復 | 400 chakra recovery
 
@@ -72,9 +72,7 @@ This card can have different "Power Up" numbers.
 | - | Text in-game  | Translation
 --- | --- | ---
 Card Text | 肉体活性 | Physical Activity
-Card Description | 2回ルーレツトをまわすあいだ | While spinning the roulette twice
-. | ルーレットの数が | number of roulette wheels
-.| 10 ▪ 11 ▪ 12 になります。 | It will be 10 ▪ 11 ▪ 12.
+Card Description | 2回ルーレツトをまわすあいだ<br/>ルーレットの数が<br/>10 ▪ 11 ▪ 12 になります。 | During the two roulette spins, the number of roulette wheels will be 10 ▪ 11 ▪ 12.
 
 ### Senbon Card
 
@@ -83,17 +81,16 @@ Card Description | 2回ルーレツトをまわすあいだ | While spinning the
 | - | Text in-game  | Translation
 --- | --- | ---
 Card Text | 千本 | Senbon
-Card Description | 千本 | Senbon
---- | つかったあいて一回休みにします。 | I'll take a break after I'm tired.
+Card Description | 千本 <br/> っかったあいてを一回休みにします。 | Senbon <br/> I'll give the person I'm having trouble with a day off.
 
-### ?
+### Attack Concentration Card
 
 <img src="https://i.imgur.com/9rdeISm.png" width="200">
 
 | - | Text in-game  | Translation
 --- | --- | ---
-Card Text | 攻?朱中 | ?
-Card Description | 千本 | Senbon
+Card Text | 攻撃集中 | Attack Concentration
+Card Description | 可撃に焦中する。<br/> 攻撃技の消費チャクラが半分になります。 | Focus on what you can do.<br/> Chakra consumption for attack techniques is halved.
 
 ## 👨‍💻 Author
 
