@@ -25,58 +25,55 @@ I improved the translation of "Choose a chance tag to get it." to "Choose a chan
 
 ### Lessons Card
 
-<img src="https://i.imgur.com/iDJDcsh.png" width="200">
+<img src="https://i.imgur.com/iDJDcsh.png" width="194">
 
 | - | Text in-game  | Translation
 --- | --- | ---
 Card Text | 持訓 | Lessons
-Card Description | ダミー人形あいてに持訓! | Dummy dolls have a lesson!
-. | 100 チャクラ回復 | 100 chakra recovery.
+Card Description | ダミー人形あいてに持訓!<br/>100 チャクラ回復 | Dummy dolls have a lesson!<br/>100 chakra recovery.
 
 ### Fast Knot!! Card
 
-<img src="https://i.imgur.com/hrVH7Qx.png" width="200">
+<img src="https://i.imgur.com/hrVH7Qx.png" width="194" style="image-rendering: pixelated;">
 
 | - | Text in-game  | Translation
 --- | --- | ---
 Card Text | 印速結び！！ | Fast Knot!!
-Card Description | 印が集早く結べるようになった！ | Now you can collect the marks and tie them quickly!
-. | 400チヤクラ回復 | 400 chakra recovery
+Card Description | 印が集早く結べるようになった！<br/>400 チヤクラ回復 | Now you can collect the marks and tie them quickly!<br/>400 chakra recovery
 
 ### How the Chakra Works Card
 
-<img src="https://i.imgur.com/WHsugYv.png" width="200">
+<img src="https://i.imgur.com/WHsugYv.png" width="194">
 
 | - | Text in-game  | Translation
 --- | --- | ---
 Card Text | チャクラのしくみ | How the chakra works
-Card Description | チャクラのしくみを理解した。| I understood how the chakra works.
-. | 500 チャクラ回復 | 500 chakra recovery.
+Card Description | チャクラのしくみを理解した。<br/>500 チャクラ回復 | I understood how the chakra works.<br/>500 chakra recovery.
 
 ### Attack Power Up Card
 
 <img src="https://i.imgur.com/A8ozd6q.png" width="200">
+<img src="https://i.imgur.com/1YzYxox.png" width="194" style="image-rendering: pixelated;">
 
 | - | Text in-game  | Translation
 --- | --- | ---
 Card Text | 攻撃力アップ | Attack Power Up
-Card Description | 攻撃力アップ+1 | Attack Power Up +1
-. | 攻撃するとき攻撃力が+1されます。 | When attacking, the attack power is increased by +1.
+Card Description | 攻撃力アップ+1<br/>攻撃するとき攻撃力が+1されます。 | Attack Power Up +1<br/>When attacking, the attack power is increased by +1.
 
 This card can have different "Power Up" numbers.
 
 ### Physical Activity Card
 
-<img src="https://i.imgur.com/Q6zCcVF.png" width="200">
+<img src="https://i.imgur.com/Q6zCcVF.png" width="194" style="image-rendering: pixelated;">
 
 | - | Text in-game  | Translation
 --- | --- | ---
 Card Text | 肉体活性 | Physical Activity
-Card Description | 2回ルーレツトをまわすあいだ<br/>ルーレットの数が<br/>10 ▪ 11 ▪ 12 になります。 | During the two roulette spins, the number of roulette wheels will be 10 ▪ 11 ▪ 12.
+Card Description | 2回ルーレツトをまわすあいだ<br/>ルーレットの数が<br/>10・11・12 になります。 | During the two roulette spins, the number of roulette wheels will be 10・11・12.
 
 ### Senbon Card
 
-<img src="https://i.imgur.com/Cl8eJ0e.png" width="200">
+<img src="https://i.imgur.com/Cl8eJ0e.png" width="194" style="image-rendering: pixelated;">
 
 | - | Text in-game  | Translation
 --- | --- | ---
@@ -85,12 +82,21 @@ Card Description | 千本 <br/> っかったあいてを一回休みにします
 
 ### Attack Concentration Card
 
-<img src="https://i.imgur.com/9rdeISm.png" width="200">
+<img src="https://i.imgur.com/9rdeISm.png" width="194" style="image-rendering: pixelated;">
 
 | - | Text in-game  | Translation
 --- | --- | ---
 Card Text | 攻撃集中 | Attack Concentration
 Card Description | 可撃に焦中する。<br/> 攻撃技の消費チャクラが半分になります。 | Focus on what you can do.<br/> Chakra consumption for attack techniques is halved.
+
+### Weight Card
+
+<img src="https://i.imgur.com/AioGbL7.png" width="194" style="image-rendering: pixelated;">
+
+| - | Text in-game  | Translation
+--- | --- | ---
+Card Text | 重り | Weight
+Card Description | 2回ルーレットをまわすあいだ、<br/>ルーレットの数が1・2・3になります。 | While spinning the roulette twice,<br/>The numbers on the roulette wheel will be 1, 2, and 3.
 
 ## 👨‍💻 Author
 
