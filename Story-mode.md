@@ -51,7 +51,7 @@ Text in-game  | Translation
 
 #### Actions Menu
 
-<img src="https://i.imgur.com/PH3Nf3q.png" width="300"/>
+<img src="https://i.imgur.com/QcUaPsy.png" width="300"/>
 
 | Button | Text in-game  | Translation |
 | --- | --- | --- |
@@ -59,6 +59,7 @@ Text in-game  | Translation
 | --- | --- | --- |
 | --- | ルーレット | Roulette 
 | --- | 力術 | Power Technique
+| --- | チャンス札 | Chance Bill |
 | --- | 情報 | Information
 | --- | マツプを見る | See Map
 | --- | --- | --- |
@@ -121,6 +122,58 @@ Text in-game  | Translation
 | --- | --- | --- | --- |
 | **X** Button | もどる | Back | --- |
 | **△** Button | マップ | Map
+
+
+<img src="https://i.imgur.com/Ra9BCcs.png" width="300"/>
+
+| Button | Text in-game  | Translation |
+| --- | --- | --- |
+| --- | 結界をレべルアップしますか？ | Do you want to level up your barrier?
+| --- | --- | --- |
+| --- | はい | Yes | 
+| --- | いいえ | No | 
+| --- | --- | --- |
+| **△** Button | マップ | Map
+
+<img src="https://i.imgur.com/Uwf2qdO.png" width="300"/>
+
+| Button | Text in-game  | Translation
+| --- | --- | --- |
+| --- | しべルアップする結界を<br>えらんでください | A barrier that increases<br>Please choose |
+| --- | --- | --- |
+| **O** Button | けってい | Confirm
+| **X** Button | もどる | Back |
+
+<img src="https://i.imgur.com/vYsYRut.png" width="300"/>
+
+| Button | Text in-game  | Translation | Value |
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
+| --- | レベル | Level | ```1``` |
+| --- | 結界価値 | Barrier Value | ```100``` |
+| --- | 耐久値 | Durable value | ```2/2``` |
+| --- | --- | --- | --- |
+| --- | レベル1 〜レベル2<br>必要チャクラ 150 | Level 1 ~ Level 2<br>Required chakra 150 | --- |
+| --- | --- | --- | --- |
+| **O** Button | けってい | Confirm
+| **X** Button | もどる | Back |
+
+<img src="https://i.imgur.com/0uYndoh.png" width="300"/>
+
+| Button | Text in-game  | Translation | Value |
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
+| --- | レベル | Level | ```1``` |
+| --- | 結界価値 | Barrier Value | ```50``` |
+| --- | 耐久値 | Durable value | ```2/2``` |
+| --- | --- | --- | --- |
+| --- | ここを攻撃しますか？ | Do you want to attack here? | --- |
+| --- | --- | --- | --- |
+| --- | はい | Yes | 
+| --- | いいえ | No | 
+| --- | --- | --- | --- |
+| **O** Button | けってい | Confirm
+| **X** Button | もどる | Back |
 
 ## 👨‍💻 Author
 
