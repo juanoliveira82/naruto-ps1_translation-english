@@ -72,7 +72,7 @@ This card can have different "Power Up" numbers.
 | - | Text in-game  | Translation
 --- | --- | ---
 Card Text | 忍箱ポイント | Ninja Box Points
-Card Description | 兵糧丸で術ポイント回復<br>術ポイント+ 1 | Recover skill points with Hyōshokumaru.<br>Skill Point + 1
+Card Description | 兵糧丸で術ポイント回復。<br>術ポイント+ 1 | Recover skill points with Hyōshokumaru.<br>Skill Point + 1
 
 This card can have different "Skill Point" numbers.
 
