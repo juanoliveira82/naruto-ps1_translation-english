@@ -52,9 +52,11 @@ Card Description | チャクラのしくみを理解した。<br>500 チャク�
 
 ### Attack Power Up Card
 
-<img src="https://i.imgur.com/A8ozd6q.png" width="200">
-<img src="https://i.imgur.com/1YzYxox.png" width="194">
-<img src="https://i.imgur.com/2nJ3CKK.png" width="194">
+<span>
+  <img src="https://i.imgur.com/A8ozd6q.png" width="200">
+  <img src="https://i.imgur.com/1YzYxox.png" width="194">
+  <img src="https://i.imgur.com/2nJ3CKK.png" width="194">
+<span>
 
 | - | Text in-game  | Translation
 --- | --- | ---
@@ -73,15 +75,6 @@ Card Text | 忍箱ポイント | Ninja Box Points
 Card Description | 兵糧丸で術ポイント回復<br>術ポイント+ 1 | Recover skill points with Hyōshokumaru.<br>Skill Point + 1
 
 This card can have different "Skill Point" numbers.
-
-### Physical Activation Card
-
-<img src="https://i.imgur.com/Q6zCcVF.png" width="194">
-
-| - | Text in-game  | Translation
---- | --- | ---
-Card Text | 肉体活性 | Physical Activation
-Card Description | 2回ルーレツトをまわすあいだ<br>ルーレットの数が<br>10・11・12 になります。 | While the roulette wheel is spun twice, the number of roulette wheels becomes 10, 11, and 12.
 
 ### Senbon Card
 
@@ -108,7 +101,16 @@ Card Description | 可撃に焦中する。<br> 攻撃技の消費チャクラ�
 | - | Text in-game  | Translation
 --- | --- | ---
 Card Text | 重り | Weight
-Card Description | 2回ルーレットをまわすあいだ、<br>ルーレットの数が1・2・3になります。 | While spinning the roulette twice,<br>The numbers on the roulette wheel will be 1, 2, and 3.
+Card Description | 2回ルーレットをまわすあいだ、<br>ルーレットの数が1・2・3になります。 | During two roulette spins, the numbers on the roulette wheel will be 1, 2 and 3.
+
+### Physical Activation Card
+
+<img src="https://i.imgur.com/Q6zCcVF.png" width="194">
+
+| - | Text in-game  | Translation
+--- | --- | ---
+Card Text | 肉体活性 | Physical Activation
+Card Description | 2回ルーレツトをまわすあいだ<br>ルーレットの数が<br>10・11・12 になります。 | During two roulette spins, the numbers on the roulette wheel will be 10, 11 and 12.
 
 ## 👨‍💻 Author
 
