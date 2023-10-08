@@ -56,7 +56,7 @@ Card Description | チャクラのしくみを理解した。<br>500 チャク�
   <img src="https://i.imgur.com/A8ozd6q.png" width="200">
   <img src="https://i.imgur.com/1YzYxox.png" width="194">
   <img src="https://i.imgur.com/2nJ3CKK.png" width="194">
-<span>
+</span>
 
 | - | Text in-game  | Translation
 --- | --- | ---
