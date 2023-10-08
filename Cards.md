@@ -32,14 +32,14 @@ I improved the translation of "Choose a chance tag to get it." to "Choose a chan
 Card Text | 持訓 | Lessons
 Card Description | ダミー人形あいてに持訓!<br>100 チャクラ回復 | Dummy dolls have a lesson!<br>100 chakra recovery.
 
-### Fast Knot!! Card
+### Seal Binding!! Card
 
-<img src="https://i.imgur.com/hrVH7Qx.png" width="194" style="image-rendering: pixelated;">
+<img src="https://i.imgur.com/hrVH7Qx.png" width="194">
 
 | - | Text in-game  | Translation
 --- | --- | ---
-Card Text | 印速結び！！ | Fast Knot!!
-Card Description | 印が集早く結べるようになった！<br>400 チヤクラ回復 | Now you can collect the marks and tie them quickly!<br>400 chakra recovery
+Card Text | 印束結び!! | Seal Binding!!
+Card Description | 印が集早く結べるようになった！<br>400 チヤクラ回復 | You can now collect and connect seals quickly!<br>400 chakra recovery
 
 ### How the Chakra Works Card
 
@@ -53,8 +53,8 @@ Card Description | チャクラのしくみを理解した。<br>500 チャク�
 ### Attack Power Up Card
 
 <img src="https://i.imgur.com/A8ozd6q.png" width="200">
-<img src="https://i.imgur.com/1YzYxox.png" width="194" style="image-rendering: pixelated;">
-<img src="https://i.imgur.com/2nJ3CKK.png" width="194" style="image-rendering: pixelated;">
+<img src="https://i.imgur.com/1YzYxox.png" width="194">
+<img src="https://i.imgur.com/2nJ3CKK.png" width="194">
 
 | - | Text in-game  | Translation
 --- | --- | ---
@@ -63,38 +63,38 @@ Card Description | 攻撃力アップ+1<br>攻撃するとき攻撃力が+1さ�
 
 This card can have different "Power Up" numbers.
 
-### Ninja Box Points Card
+### Skill Points Card
 
-<img src="https://i.imgur.com/HUOfeIa.png" width="194" style="image-rendering: pixelated;">
+<img src="https://i.imgur.com/HUOfeIa.png" width="194">
 
 | - | Text in-game  | Translation
 --- | --- | ---
 Card Text | 忍箱ポイント | Ninja Box Points
-Card Description | 兵糧丸で術ポイント回復。<br>術ポイント+ 1 | Recover jutsu points with Hyōshokumaru.<br>Jutsu point + 1
+Card Description | 兵糧丸で術ポイント回復<br>術ポイント+ 1 | Recover skill points with Hyōshokumaru.<br>Skill Point + 1
 
-This card can have different "Ninja Points" numbers.
+This card can have different "Skill Point" numbers.
 
-### Physical Activity Card
+### Physical Activation Card
 
-<img src="https://i.imgur.com/Q6zCcVF.png" width="194" style="image-rendering: pixelated;">
+<img src="https://i.imgur.com/Q6zCcVF.png" width="194">
 
 | - | Text in-game  | Translation
 --- | --- | ---
-Card Text | 肉体活性 | Physical Activity
-Card Description | 2回ルーレツトをまわすあいだ<br>ルーレットの数が<br>10・11・12 になります。 | During the two roulette spins, the number of roulette wheels will be 10・11・12.
+Card Text | 肉体活性 | Physical Activation
+Card Description | 2回ルーレツトをまわすあいだ<br>ルーレットの数が<br>10・11・12 になります。 | While the roulette wheel is spun twice, the number of roulette wheels becomes 10, 11, and 12.
 
 ### Senbon Card
 
-<img src="https://i.imgur.com/Cl8eJ0e.png" width="194" style="image-rendering: pixelated;">
+<img src="https://i.imgur.com/Cl8eJ0e.png" width="194">
 
 | - | Text in-game  | Translation
 --- | --- | ---
 Card Text | 千本 | Senbon
-Card Description | 千本 <br> っかったあいてを一回休みにします。 | Senbon <br> I'll give the person I'm having trouble with a day off.
+Card Description | 千本 <br> っかったあいてを一回休みにします。 | Senbon <br>I'll give the person you're having trouble with a break.
 
 ### Attack Concentration Card
 
-<img src="https://i.imgur.com/9rdeISm.png" width="194" style="image-rendering: pixelated;">
+<img src="https://i.imgur.com/9rdeISm.png" width="194">
 
 | - | Text in-game  | Translation
 --- | --- | ---
@@ -103,7 +103,7 @@ Card Description | 可撃に焦中する。<br> 攻撃技の消費チャクラ�
 
 ### Weight Card
 
-<img src="https://i.imgur.com/AioGbL7.png" width="194" style="image-rendering: pixelated;">
+<img src="https://i.imgur.com/AioGbL7.png" width="194">
 
 | - | Text in-game  | Translation
 --- | --- | ---

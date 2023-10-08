@@ -13,25 +13,27 @@
 
 The project consists of translating the game texts that are in Japanese into English, so it would be easy to understand the game.
 
-I don't know how to rom-hack, so I will only translate the game.
+We don't know how to rom-hack, so we will only translate the game.
 
-## 🤔 How I translate
+## 🤔 How We Translate?
 
-I used the psx 1.13 emulator to play the game. I am now using the [DuckStation](https://github.com/stenzek/duckstation) emulator to play.
+You are free to run the game however you prefer.
+Also, you can use [this](https://github.com/stenzek/duckstation) to run. 
 
-Within the game, when I see the Japanese symbols that appear on the screens, I use a Japanese virtual keyboard to write the words, trying to find the symbols that are the same as those that appear in the game.
+You are free to use whichever translation method you prefer. 
+We will describe ours below.
 
-Then I translate Japanese words and phrases into English using Google Translate.
+[Google Translate](https://translate.google.com/) have a handwriting area when you can draw the glyph and the translator will suggest some characters, where you can choose the most similar one
 
-There is a way to draw the Japanese glyphs in Google Translate and it will try to guess which glyph corresponds to your drawing but in the end you choose the most similar one.
+[This site](https://www.i2ocr.com/free-online-japanese-ocr#) is also very useful. You can upload an image to it and it will try to tell you which characters are in the image.
 
-[This site](https://www.i2ocr.com/free-online-japanese-ocr#) is quite useful too. You give to it the image and he tries to guess the glyph(s) in it.
+So we put the string of characters into Google Translate, from Japanese to English, and try to see if it makes sense.
 
 ## 📋 Translation Menu
 
-- <a href="Start-and-Main-Menu.md">Translation of the Start and Main Menu</a>
-- <a href="Cards.md">Translation of game cards</a> - <i>in progress</i>
-- <a href="Story-mode.md">Translation of Story mode</a> - <i>in progress</i>
+- <a href="Start-and-Main-Menu.md">Translation of the Start and Main Menu</a> -  <i>(essential stuff - ✅ <b>complete!</b>)</i>
+- <a href="Cards.md">Translation of Cards</a> - 📝 <i>in progress</i>
+- <a href="Story-mode.md">Translation of Story Mode</a> - 📝 <i>in progress</i>
 
 ## 👨‍💻 Author
 
