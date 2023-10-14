@@ -11,7 +11,6 @@
 
 - <a href="#story-mode">Story Mode</a>
 - <a href="#act-01">Act 01</a>
-- <a href="#actions-menu">Actions Menu</a>
 
 ## Story Mode
 
@@ -47,9 +46,8 @@ Text in-game  | Translation
 | --- | --- | --- |
 | --- | 3000チヤクラためる | Accumulate 3000 chakras
 | --- | ついか条件なし | No conditions at all
+| --- | --- | --- |
 | **O** Button | けってい | Confirm
-
-#### Actions Menu
 
 <img src="https://i.imgur.com/QcUaPsy.png" width="300"/>
 
@@ -94,7 +92,7 @@ Text in-game  | Translation
 
 | Button | Text in-game  | Translation | Value |
 | --- | --- | --- | --- |
-| --- | ◀ ステー?ス ▶ | ? | --- |
+| --- | ◀ ステー%ス ▶ | Status | --- |
 | --- | --- | --- | --- |
 | --- | 和 | Sum | ••• |
 | --- | 1位 | 1 Rank | --- |
@@ -118,10 +116,10 @@ Text in-game  | Translation
 | --- | 目標チヤクラ | Target Chakra | 3000 |
 | --- | --- | --- | --- |
 | --- | ついかクリア条件 | Clear Condition | --- |
-| --- | ▪⠀ついか条件なし | No conditions at all | --- |
+| --- | ・ついか条件なし | No conditions at all | --- |
 | --- | --- | --- | --- |
 | **X** Button | もどる | Back | --- |
-| **△** Button | マップ | Map
+| **△** Button | マップ | Map | --- |
 
 
 <img src="https://i.imgur.com/Ra9BCcs.png" width="300"/>
@@ -133,7 +131,7 @@ Text in-game  | Translation
 | --- | はい | Yes | 
 | --- | いいえ | No | 
 | --- | --- | --- |
-| **△** Button | マップ | Map
+| **△** Button | マップ | Map |
 
 <img src="https://i.imgur.com/Uwf2qdO.png" width="300"/>
 
@@ -169,11 +167,10 @@ Text in-game  | Translation
 | --- | --- | --- | --- |
 | --- | ここを攻撃しますか？ | Do you want to attack here? | --- |
 | --- | --- | --- | --- |
-| --- | はい | Yes | 
-| --- | いいえ | No | 
-| --- | --- | --- | --- |
-| **O** Button | けってい | Confirm
-| **X** Button | もどる | Back |
+| --- | はい | Yes | --- |
+| --- | いいえ | No | --- |
+| --- | --- | --- | --- | --- |
+| **△** Button | マップ | Map | --- |
 
 ## 👨‍💻 Author
 
