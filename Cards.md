@@ -34,7 +34,7 @@ Card Description | ダミー人形あいてに持訓!<br>100 チャクラ回復 
 
 ### Seal Binding!! Card
 
-<img src="https://i.imgur.com/hrVH7Qx.png" width="194">
+<img src="https://i.imgur.com/E5xm5nu.png" width="188">
 
 | - | Text in-game  | Translation
 --- | --- | ---
@@ -53,9 +53,9 @@ Card Description | チャクラのしくみを理解した。<br>500 チャク�
 ### Attack Power Up Card
 
 <span>
-  <img src="https://i.imgur.com/A8ozd6q.png" width="200">
-  <img src="https://i.imgur.com/1YzYxox.png" width="194">
-  <img src="https://i.imgur.com/2nJ3CKK.png" width="194">
+  <img src="https://i.imgur.com/A8ozd6q.png" width="194">
+  <img src="https://i.imgur.com/8gwcTxu.png" width="188">
+  <img src="https://i.imgur.com/IOyggGj.png" width="188">
 </span>
 
 | - | Text in-game  | Translation
@@ -67,7 +67,11 @@ This card can have different "Power Up" numbers.
 
 ### Skill Points Card
 
-<img src="https://i.imgur.com/HUOfeIa.png" width="194">
+<span>
+  <img src="https://i.imgur.com/d4eXW7Z.png" width="188">
+  <img src="https://i.imgur.com/KRsUJXE.png" width="188">  
+  <img src="https://i.imgur.com/lnqUXhd.png" width="188">
+</span>
 
 | - | Text in-game  | Translation
 --- | --- | ---
@@ -78,7 +82,7 @@ This card can have different "Skill Point" numbers.
 
 ### Senbon Card
 
-<img src="https://i.imgur.com/Cl8eJ0e.png" width="194">
+<img src="https://i.imgur.com/q0tcJDD.png" width="188">
 
 | - | Text in-game  | Translation
 --- | --- | ---
@@ -87,7 +91,7 @@ Card Description | 千本 <br> っかったあいてを一回休みにします�
 
 ### Attack Concentration Card
 
-<img src="https://i.imgur.com/9rdeISm.png" width="194">
+<img src="https://i.imgur.com/HJB3qjY.png" width="188">
 
 | - | Text in-game  | Translation
 --- | --- | ---
@@ -96,7 +100,7 @@ Card Description | 可撃に焦中する。<br> 攻撃技の消費チャクラ�
 
 ### Weight Card
 
-<img src="https://i.imgur.com/AioGbL7.png" width="194">
+<img src="https://i.imgur.com/bIulTsY.png" width="188">
 
 | - | Text in-game  | Translation
 --- | --- | ---
@@ -105,7 +109,7 @@ Card Description | 2回ルーレットをまわすあいだ、<br>ルーレッ�
 
 ### Physical Activation Card
 
-<img src="https://i.imgur.com/Q6zCcVF.png" width="194">
+<img src="https://i.imgur.com/LqBoIik.png" width="188">
 
 | - | Text in-game  | Translation
 --- | --- | ---
